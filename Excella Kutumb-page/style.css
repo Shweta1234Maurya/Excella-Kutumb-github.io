@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.location{
+    color: red;
+}
+button{
+    border: none;
+}
+.btn-green a{
+    background-color: rgb(6, 91, 6);
+    color: #fff;
+    padding:2px ;
+    text-decoration: none;
+}
+button a{
+    font-size: smaller;
+    padding: 2px;
+
+}
+.btn-gray a{
+    background-color: rgb(107, 106, 106);
+    color: #fff;
+    padding: 2px;
+    text-decoration: none;
+}
+.btn-red a{
+    background-color: rgb(162, 11, 11);
+    color: #fff;
+    padding: 2px;
+    text-decoration: none;
+}
+.text-blue{
+    color:rgb(4, 4, 86);
+    background-color:rgb(232, 232, 255);
+}
+img{
+    height: 600px;
+    width: 98%;
+}
+.about-sec{
+    background-color: rgb(15, 15, 58);
+    color:#ffffff;
+    padding: 20px;
+    font-size: larger;
+    margin: 0;
+}
+.card-title{
+    background-color:rgb(235, 235, 255);
+    
+}
+.card p{
+    color: rgb(196, 194, 194);
+}
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.text-bold{
+    font-weight: 700;
+}
+
+.call-icon{
+    background-color:rgb(27, 122, 255);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    
+    z-index: 10;
+    top:85%;
+    left: 90%;
+    line-height: center;
+    position: fixed;
+    box-shadow: 2px 1px 3px rgb(210, 207, 202);
+}
+.bi-telephone-fill{
+    font-size: x-large;
+    padding: 15px;
+    padding-top: 30px;
+    color:rgb(245, 253, 253);
+    position: relative;
+    top: 10px;
+   
+    
+}
+.footer{
+    background-color: rgb(15, 15, 58);
+    color: #fff;
+    padding: 5px;
+}
+.projec-btn{
+    z-index: 10;
+    margin-top: -10px;
+}
